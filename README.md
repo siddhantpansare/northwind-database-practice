@@ -1,16 +1,16 @@
 # northwind-database-practice
 
-I have used this database to practice some basic sql queries. The Query Questions I have used for practising the queries are in as 
+I have used this database to practice some basic sql queries. The Query Questions I have used for practising the queries are in as Northwind_Database_Query_Questions.docx
 
 [Northwind_Database_Query_Questions]: ./Northwind_Database_Query_Questions.docx	"Northwind_Database_Query_Questions"
 
- and answers/queries are in the 
+ and answers/queries are in the Northwind_Database_Query_Answers.docx
 
 [Northwind_Database_Query_Answers]: ./Northwind_Database_Query_Answers.docx	"Northwind_Database_Query_Answers"
 
  file.
 
-The schema for Northwind Database can be found
+The schema for Northwind Database can be found Northwind_schema.pdf
 
 [Northwind schema]: ./Northwind_Schema.pdf	"here"
 
