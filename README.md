@@ -36,3 +36,7 @@ The schema for Northwind Database can be found
 
    `USE northwind;`
 
+
+
+NOTE: Please add your custom built queries in the respective files. It might prove helpful for those starting out for SQL programming.
+
